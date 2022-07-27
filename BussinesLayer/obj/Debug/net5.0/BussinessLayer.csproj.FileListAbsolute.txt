@@ -1,0 +1,17 @@
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\bin\Debug\net5.0\BussinessLayer.deps.json
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\bin\Debug\net5.0\BussinessLayer.dll
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\bin\Debug\net5.0\ref\BussinessLayer.dll
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\bin\Debug\net5.0\BussinessLayer.pdb
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\obj\Debug\net5.0\BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\obj\Debug\net5.0\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\obj\Debug\net5.0\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\obj\Debug\net5.0\BussinessLayer.AssemblyInfo.cs
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\obj\Debug\net5.0\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\obj\Debug\net5.0\BussinessLayer.csproj.CopyComplete
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\obj\Debug\net5.0\BussinessLayer.dll
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\obj\Debug\net5.0\ref\BussinessLayer.dll
+C:\Users\yazilim.park10\source\repos\CoreDemo\BussinesLayer\obj\Debug\net5.0\BussinessLayer.pdb
