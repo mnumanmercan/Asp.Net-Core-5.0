@@ -21,8 +21,7 @@
                             <ul class="blog-icons my-4">
                                 <li>
                                     <a href="#">
-                                        <i class="far fa-calendar-alt"></i> 
-                                        @item.BlogCreateDate
+                                        <i class="far fa-calendar-alt"></i> @item.BlogCreateDate
                                     </a>
                                 </li>
                                 <li class="mx-2">
@@ -40,7 +39,7 @@
                             <h5 class="card-title">
                                 <a href="single.html">@item.BlogTitle</a>
                             </h5>
-                            <p class="card-text mb-3">@item.BlogContent...</p>
+                            <p class="card-text mb-3">@item.BlogContent.Substring(0,100)</p>
                             <a href="single.html" class="btn btn-primary read-m">Read More</a>
                         </div>
                         <br />
