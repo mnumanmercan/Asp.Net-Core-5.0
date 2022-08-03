@@ -1,2 +1,2 @@
 # Asp.Net-Core-5.0
-Egitim Serisi
+C# ve Asp pratikleri icin takip ettigim egitim serisi
